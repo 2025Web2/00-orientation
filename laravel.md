@@ -29,8 +29,8 @@ Laravelは、PHPのフレームワークの中でも特に人気が高く、多�
 
 本授業では、以下の環境を使用します。
 
-- PHP 8.3.12
-- Laravel 11.20.0
+- PHP 8.4.7
+- Laravel 12.25.0
 - MySQL 8.4.0
 - Docker
 - VSCode
